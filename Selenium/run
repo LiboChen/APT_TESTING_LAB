@@ -1,0 +1,2 @@
+javac -cp selenium-server-standalone-2.39.0.jar:. *.java
+java -cp selenium-server-standalone-2.39.0.jar:. Example

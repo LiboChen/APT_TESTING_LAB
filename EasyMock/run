@@ -1,0 +1,3 @@
+javac -cp junit-4.11.jar:easymock-3.4.jar:. TestJukebox.java Jukebox.java
+java -cp *:. org.junit.runner.JUnitCore TestJukebox
+
